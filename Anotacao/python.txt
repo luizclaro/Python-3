@@ -1,0 +1,25 @@
+comando paraativar vm
+
+.\venv\Scripts\activate
+
+-------------------------------------
+config VS code
+
+desabilitar Compact Folders
+
+settings.json
+
+{
+    "workbench.colorTheme": "Copilot Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python"
+}
+
+------------------------------------------------------------------
