@@ -1,6 +1,6 @@
-nome = 'Luiz Otávio'
-altura = 1.80
-peso = 95
+nome = 'Luiz gustavo'
+altura = 1.70
+peso = 78
 imc = peso / altura ** 2
 
 "f-strings"
@@ -12,6 +12,6 @@ print(linha_1)
 print(linha_2)
 print(linha_3)
 
-# Luiz Otávio tem 1.80 de altura,
-# pesa 95 quilos e seu IMC é
-# 29.320987654320987
+# Luiz gustavo tem 1.70 de altura,
+# pesa 78 quilos e seu IMC é
+# 26.989619377162633
